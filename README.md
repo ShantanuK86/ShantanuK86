@@ -1,16 +1,81 @@
-### Hi there 👋
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
-<!--
-**ShantanuK86/ShantanuK86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" >
+  <samp>
+    My name is <em>Shantanu</em>. I am a Frontend developer... 
+  <br/> Javascript enthusiast... ReactJs lover.
+    <br/> (<em>ex</em>)Fulltime student.
+continuously learning, wanting to help the community.
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
+- Personal portfolio Website
+- Figma designs
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
+- 
+- 
+- 
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> ML
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> any weird or interesting idea
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
+<p align="center">
+  <a href="https://twitter.com/ShantanuK86">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandru-nicolae-naiman-28b60a137/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://discord.gg/KgF4WGf">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="shantanu.k3672@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+  </a>
+</p>
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+<p align="center">
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             
+</p>
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+
+
+<!--START_SECTION:waka-->
+```text
+Week: 07 July, 2023 - 14 July, 2023
+
+JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
+C++         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Python       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+NodeJS       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+```
+<!--END_SECTION:waka-->
+
+
+<p align="right">
+
+</p>
+
+---
+⭐️ From [alexnaiman](https://github.com/ShantanuK86)
