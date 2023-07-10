@@ -18,10 +18,10 @@ continuously learning, wanting to help the community.
 - Personal portfolio Website
 - Figma designs
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
-- 
-- 
-- 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> ML
+- UI & UX designs on figma 
+- ReactJS 
+- Web3 and Solidity
+- DSA 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
 
@@ -75,4 +75,4 @@ NodeJS       28 mins         █░░░░░░░░░░░░░░░░
 </p>
 
 ---
-⭐️ From [alexnaiman](https://github.com/ShantanuK86)
+⭐️ From [ShantanuK86](https://github.com/ShantanuK86)
