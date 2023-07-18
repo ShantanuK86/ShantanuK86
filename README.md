@@ -3,7 +3,7 @@
 <p align="center" >
   <samp>
     My name is <em>Shantanu</em>. I am a Frontend developer... 
-  <br/> Javascript enthusiast... ReactJs lover.
+  <br/> Javascript and Web3 enthusiast ... ReactJs lover.
     <br/> (<em>ex</em>)Fulltime student.
 continuously learning, wanting to help the community.
   </samp>
