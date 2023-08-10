@@ -12,7 +12,7 @@ continuously learning, wanting to help the community.
   <br/>
 </p>
 
-<img src="https://github.com/ShantanuK86/ShantanuK86/blob/main/coding.gif" align="right"  width="30%"/>
+<img src="https://github.com/ShantanuK86/ShantanuK86/blob/main/coding.gif" align="right"  width="50%"/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - Personal portfolio Website
