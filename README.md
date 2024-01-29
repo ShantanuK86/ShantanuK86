@@ -4,7 +4,7 @@
   <samp>
     My name is <em>Shantanu</em>. I am a Web developer... 
   <br/> Javascript and Web3 enthusiast ... ReactJs lover.
-    <br/> (<em>ex</em>)Fulltime student.
+    <br/> Fulltime student.
 continuously learning, wanting to help the community.
   </samp>
   <br/>
