@@ -56,17 +56,6 @@ continuously learning, wanting to help the community.
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
 
-<!--START_SECTION:waka-->
-```text
-Week: 07 July, 2023 - 14 July, 2023
-
-JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
-C++          59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Python       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-NodeJS       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-```
-<!--END_SECTION:waka-->
 
 
 <p align="right">
