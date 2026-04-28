@@ -1,4 +1,5 @@
-# Shantanu Kumar | Backend Engineer | GenAI & Agentic AI Specialist
+# Shantanu Kumar 
+# Backend Engineer | GenAI & Agentic AI Specialist
 
 <div align="center">
   <p>
